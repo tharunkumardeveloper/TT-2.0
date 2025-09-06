@@ -17,7 +17,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   jump: {
     id: 'jump',
     name: 'Vertical Jump',
-    gif: '/challenge-demos/vertical-jump.gif',
+    gif: 'https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?auto=compress&cs=tinysrgb&w=600',
     instructions: [
       'Stand straight with feet shoulder-width apart',
       'Keep your arms relaxed at your sides',
@@ -29,7 +29,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   shuttle: {
     id: 'shuttle',
     name: 'Shuttle Run',
-    gif: '/challenge-demos/ssvid.net--Shuttle-Run_1080p (online-video-cutter.com) (1) copy.gif',
+    gif: 'https://images.pexels.com/photos/2803158/pexels-photo-2803158.jpeg?auto=compress&cs=tinysrgb&w=600',
     instructions: [
       'Start in a ready position at the starting line',
       'Sprint to the first cone as fast as possible',
@@ -41,7 +41,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   pushup: {
     id: 'pushup',
     name: 'Push-Ups',
-    gif: '/challenge-demos/ssvid.net--How-to-do-a-Push-Up-Proper-Form-Technique_1080p (online-video-cutter.com) (1) copy.gif',
+    gif: 'https://images.pexels.com/photos/416809/pexels-photo-416809.jpeg?auto=compress&cs=tinysrgb&w=600',
     instructions: [
       'Start in plank position with hands shoulder-width apart',
       'Keep your body in a straight line from head to heels',
@@ -53,7 +53,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   situp: {
     id: 'situp',
     name: 'Sit-Ups',
-    gif: '/challenge-demos/4921658-hd_1066_1920_25fps (online-video-cutter.com) copy.gif',
+    gif: 'https://images.pexels.com/photos/3768916/pexels-photo-3768916.jpeg?auto=compress&cs=tinysrgb&w=600',
     instructions: [
       'Lie on your back with knees bent',
       'Place hands behind your head or crossed on chest',
@@ -65,7 +65,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   endurance: {
     id: 'endurance',
     name: 'Endurance Run',
-    gif: '/challenge-demos/Become obsessed (online-video-cutter.com) (1) copy.gif',
+    gif: 'https://images.pexels.com/photos/2294361/pexels-photo-2294361.jpeg?auto=compress&cs=tinysrgb&w=600',
     instructions: [
       'Start with a comfortable running pace',
       'Maintain steady breathing rhythm',
