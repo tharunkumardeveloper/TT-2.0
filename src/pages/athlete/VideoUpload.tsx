@@ -29,7 +29,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   shuttle: {
     id: 'shuttle',
     name: 'Shuttle Run',
-    gif: '/challenge-demos/shuttle-run.gif',
+    gif: '/challenge-demos/ssvid.net--Shuttle-Run_1080p (online-video-cutter.com) (1) copy.gif',
     instructions: [
       'Start in a ready position at the starting line',
       'Sprint to the first cone as fast as possible',
@@ -41,7 +41,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   pushup: {
     id: 'pushup',
     name: 'Push-Ups',
-    gif: '/challenge-demos/pushup.gif',
+    gif: '/challenge-demos/ssvid.net--How-to-do-a-Push-Up-Proper-Form-Technique_1080p (online-video-cutter.com) (1) copy.gif',
     instructions: [
       'Start in plank position with hands shoulder-width apart',
       'Keep your body in a straight line from head to heels',
@@ -53,7 +53,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   situp: {
     id: 'situp',
     name: 'Sit-Ups',
-    gif: '/challenge-demos/situp.gif',
+    gif: '/challenge-demos/4921658-hd_1066_1920_25fps (online-video-cutter.com) copy.gif',
     instructions: [
       'Lie on your back with knees bent',
       'Place hands behind your head or crossed on chest',
@@ -65,7 +65,7 @@ const activityDemos: Record<string, ActivityDemo> = {
   endurance: {
     id: 'endurance',
     name: 'Endurance Run',
-    gif: '/challenge-demos/endurance-run.gif',
+    gif: '/challenge-demos/Become obsessed (online-video-cutter.com) (1) copy.gif',
     instructions: [
       'Start with a comfortable running pace',
       'Maintain steady breathing rhythm',
